@@ -1,0 +1,6 @@
+
+
+<div class='cssload-loader' id='loader'><myloader>
+<div aria-busy='true' aria-label='Loading, please wait.' role='progressbar'/>
+</myloader></div>
+<div class='page-loader' id='pagingx'/> 
